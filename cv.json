@@ -1,0 +1,20 @@
+{
+  "basics": {
+    "name": "Ruslan Kazakov",
+    "label": "Software Engineer",
+    "picture": "https://avatars.githubusercontent.com/u/168863?v=3",
+    "email": "ruslan.kazakov@gmail.com",
+    "website": "http://ruslankazakov.com",
+    "summary": "Software Engineer",
+    "location": {
+      "city": "Sydney",
+      "countryCode": "AU",
+      "region": "New South Wales"
+    },
+    "profiles": [{
+      "network": "Github",
+      "username": "rkazakov",
+      "url": "https://github.com/rkazakov"
+    }]
+  }
+}
